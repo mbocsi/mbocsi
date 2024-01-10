@@ -4,4 +4,4 @@
 
 - 💻 I like Python and database management!
 
-**Learn about me!** https://pages.cs.wisc.edu/~marton/
+**Learn about me!** https://mbocsi.github.io/marton-site/
