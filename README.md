@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marton
 
-- 🌱 I’m currently studying computer science and computer science at UW Madison's College of Engineering
+- 🌱 I study computer engineering and computer science at UW Madison's College of Engineering
 
 - 💻 Full-stack developer
